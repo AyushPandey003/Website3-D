@@ -2,6 +2,9 @@ import Navbar from './components/navbar';
 import Hero from './components/hero';
 import Highlights from './components/highlights';
 import Model from './components/Model';
+import Features from './components/Features';
+import HowItWorks from './components/HowitWorks';
+import Footer from './components/Footer';
 import * as Sentry from '@sentry/react';
 function App() {
 
@@ -13,9 +16,9 @@ function App() {
       <Hero />
       <Highlights />
       <Model />
-      {/* <Features />
+      <Features />
       <HowItWorks />
-      <Footer /> */}
+      <Footer />
       </main>
     </>
   )
