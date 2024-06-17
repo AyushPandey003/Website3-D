@@ -6,6 +6,8 @@ import Features from './components/Features';
 import HowItWorks from './components/HowitWorks';
 import Footer from './components/Footer';
 import * as Sentry from '@sentry/react';
+import './components/disableshortcuts';
+
 function App() {
 
   return (
