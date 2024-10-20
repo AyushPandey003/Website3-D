@@ -1,4 +1,4 @@
-## Apple iPhone Website Clone with GSAP, Three.js, React, and Vite
+## Apple IPhone clone Website Clone with GSAP, Three.js, React, and Vite
 
 This repository contains a clone of the Apple iPhone website, built using a combination of powerful web technologies:
 
